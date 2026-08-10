@@ -3,20 +3,20 @@ class Solution {
         int n = nums.length;
         Arrays.sort(nums);
         List<List<Integer>> List = new ArrayList<>();
-        HashSet<List<Integer>> setList = new HashSet<>();
 
         List.add(new ArrayList<>());
-        setList.add(new ArrayList<>());
+
+        int start = 0;
+        int end = 0;
 
         for(int i = 0 ; i<n ; i++) {
-            int k = List.size();
-            for(int j = 0 ; j<k ; j++) {
+            start = (i > 0 && nums[i] == nums[i-1]) ? end : 0;
+            end = List.size();
+
+            for(int j = start ; j<end ; j++) {
                 ArrayList<Integer> newList = new ArrayList<>(List.get(j));
                 newList.add(nums[i]);
-                if(!setList.contains(newList)) {
-                    List.add(newList);
-                    setList.add(newList);
-                }
+                List.add(newList);
             }
         }
         return List;
