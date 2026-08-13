@@ -12,6 +12,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
