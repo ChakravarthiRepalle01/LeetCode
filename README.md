@@ -39,6 +39,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 | [0289-game-of-life](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0289-game-of-life) |
 | [0930-binary-subarrays-with-sum](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Math
 |  |
 | ------- |
@@ -76,6 +77,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 | [0078-subsets](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0137-single-number-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Stack
 |  |
 | ------- |
