@@ -43,6 +43,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 | [0930-binary-subarrays-with-sum](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [2029-stone-game-ix](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2029-stone-game-ix) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Math
@@ -109,6 +110,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 |  |
 | ------- |
 | [0289-game-of-life](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0289-game-of-life) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Minimax
 |  |
 | ------- |
