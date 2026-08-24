@@ -56,6 +56,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0029-divide-two-integers) |
 | [0204-count-primes](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0204-count-primes) |
 | [2029-stone-game-ix](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -88,6 +89,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0137-single-number-ii) |
