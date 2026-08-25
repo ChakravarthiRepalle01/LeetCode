@@ -16,6 +16,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 | [0006-zigzag-conversion](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0038-count-and-say](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0038-count-and-say) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1143-longest-common-subsequence](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
 |  |
@@ -136,4 +137,12 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2029-stone-game-ix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1143-longest-common-subsequence) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
