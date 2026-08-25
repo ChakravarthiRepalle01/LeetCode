@@ -15,6 +15,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 | ------- |
 | [0006-zigzag-conversion](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0038-count-and-say](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0038-count-and-say) |
+| [0044-wildcard-matching](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0072-edit-distance) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1143-longest-common-subsequence](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1143-longest-common-subsequence) |
@@ -22,6 +23,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0044-wildcard-matching) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1710-maximum-units-on-a-truck](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
@@ -141,10 +143,15 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0072-edit-distance) |
 | [1143-longest-common-subsequence](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Longest Common Subsequence
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1143-longest-common-subsequence) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
