@@ -64,6 +64,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0029-divide-two-integers) |
+| [0062-unique-paths](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0204-count-primes) |
 | [2029-stone-game-ix](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2029-stone-game-ix) |
@@ -148,6 +149,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0044-wildcard-matching) |
+| [0062-unique-paths](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0198-house-robber) |
@@ -178,4 +180,8 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0070-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
