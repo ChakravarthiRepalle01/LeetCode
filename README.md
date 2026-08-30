@@ -28,6 +28,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 | [0945-minimum-increment-to-make-array-unique](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1710-maximum-units-on-a-truck](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [2029-stone-game-ix](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
@@ -56,6 +57,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 | [0945-minimum-increment-to-make-array-unique](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1710-maximum-units-on-a-truck](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [2029-stone-game-ix](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
