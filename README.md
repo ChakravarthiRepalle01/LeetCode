@@ -169,6 +169,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 ## Breadth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0322-coin-change](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0322-coin-change) |
 ## Knapsack Problem
 |  |
@@ -190,4 +191,16 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Tree
+|  |
+| ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
