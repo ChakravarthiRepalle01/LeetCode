@@ -1,50 +1,37 @@
-import java.util.Deque;
-import java.util.LinkedList;
-
 class Solution {
     public String decodeString(String s) {
+
         int n = s.length();
-        Deque<Integer> numQueue = new LinkedList<Integer>();
-        Deque<StringBuilder> stringQueue = new LinkedList<StringBuilder>();
+        Stack<Integer> countStack = new Stack<Integer>();
+        Stack<StringBuilder> stringStack = new Stack<StringBuilder>();
+        StringBuilder currentString = new StringBuilder();
+        int k = 0;
 
-        // Maintain ONE active tracking string and ONE number accumulator
-        StringBuilder currString = new StringBuilder();
-        int currNum = 0;
+        for(int i = 0 ; i<n ; i++) {
+            if(Character.isDigit(s.charAt(i))) {
+                k = k*10 + (int)(s.charAt(i) - '0');
+            }
+            else if(s.charAt(i) == '[') {
+                countStack.push(k);
+                stringStack.push(currentString);
 
-        for(int i = 0 ; i < n ; i++) {
-            char currChar = s.charAt(i);
-            
-            if(Character.isDigit(currChar)) {
-                // Smoothly handles 1-digit, 2-digit, or 3-digit multipliers safely
-                currNum = currNum * 10 + (currChar - '0');
+                currentString = new StringBuilder();
+                k = 0;
             }
-            else if(currChar == '[') {
-                // Push the multiplier and the string built so far onto their respective stacks
-                numQueue.addFirst(currNum);
-                stringQueue.addFirst(currString);
-                
-                // Reset both trackers for the inside context of the bracket
-                currString = new StringBuilder();
-                currNum = 0;
-            }
-            else if(currChar == ']') {
-                // Retrieve the outer scope string and the multiplier loop count
-                StringBuilder decodedTemplate = stringQueue.removeFirst();
-                int k = numQueue.removeFirst();
-                
-                // Repeat the inner string segment K times into the parent context
-                for(int j = 0 ; j < k ; j++) {
-                    decodedTemplate.append(currString);
+            else if(s.charAt(i) == ']') {
+                int currentK = countStack.pop();
+                StringBuilder decodeString = stringStack.pop();
+
+                for(int j = 0 ; j<currentK ; j++) {
+                    decodeString.append(currentString);
                 }
-                // The combined sequence becomes our new working current string
-                currString = decodedTemplate;
+                currentString = decodeString;
             }
             else {
-                // Normal plain character: just safely append to the current active segment
-                currString.append(currChar);
+                currentString.append(s.charAt(i));
             }
         }
 
-        return currString.toString();
+        return currentString.toString();
     }
 }
