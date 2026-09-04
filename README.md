@@ -66,6 +66,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/3903-smallest-stable-index-i) |
 ## Math
 |  |
 | ------- |
@@ -129,6 +130,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 |  |
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
+| [3903-smallest-stable-index-i](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/3903-smallest-stable-index-i) |
 ## Matrix
 |  |
 | ------- |
