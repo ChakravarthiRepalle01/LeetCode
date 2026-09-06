@@ -18,6 +18,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 | [0038-count-and-say](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0072-edit-distance) |
+| [0115-distinct-subsequences](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0394-decode-string](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0394-decode-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1143-longest-common-subsequence](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1143-longest-common-subsequence) |
@@ -168,6 +169,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 | [0062-unique-paths](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0072-edit-distance) |
+| [0115-distinct-subsequences](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0198-house-robber](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0322-coin-change) |
