@@ -78,6 +78,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 | [0062-unique-paths](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0204-count-primes) |
+| [0779-k-th-symbol-in-grammar](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
 | [2029-stone-game-ix](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -115,6 +116,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 | [0078-subsets](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0137-single-number-ii) |
+| [0779-k-th-symbol-in-grammar](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Stack
 |  |
@@ -183,6 +185,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 | ------- |
 | [0044-wildcard-matching](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0044-wildcard-matching) |
 | [0394-decode-string](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0394-decode-string) |
+| [0779-k-th-symbol-in-grammar](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
 ## Breadth-First Search
 |  |
 | ------- |
