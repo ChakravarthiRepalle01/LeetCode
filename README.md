@@ -19,6 +19,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 | [0044-wildcard-matching](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0115-distinct-subsequences) |
+| [0151-reverse-words-in-a-string](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0394-decode-string](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0394-decode-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1143-longest-common-subsequence](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1143-longest-common-subsequence) |
@@ -226,4 +227,8 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+## Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
