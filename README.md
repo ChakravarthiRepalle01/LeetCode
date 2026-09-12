@@ -64,6 +64,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 | [1710-maximum-units-on-a-truck](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [2029-stone-game-ix](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2270-number-of-ways-to-split-array](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2270-number-of-ways-to-split-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -142,6 +143,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 |  |
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
+| [2270-number-of-ways-to-split-array](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2270-number-of-ways-to-split-array) |
 | [3903-smallest-stable-index-i](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Matrix
