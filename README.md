@@ -60,6 +60,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 | [0289-game-of-life](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0289-game-of-life) |
 | [0322-coin-change](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0322-coin-change) |
 | [0523-continuous-subarray-sum](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0523-continuous-subarray-sum) |
+| [0835-image-overlap](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0835-image-overlap) |
 | [0930-binary-subarrays-with-sum](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -154,6 +155,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 |  |
 | ------- |
 | [0289-game-of-life](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0289-game-of-life) |
+| [0835-image-overlap](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0835-image-overlap) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Simulation
 |  |
