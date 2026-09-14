@@ -88,6 +88,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 | [0204-count-primes](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0204-count-primes) |
 | [0523-continuous-subarray-sum](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0779-k-th-symbol-in-grammar](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
+| [0836-rectangle-overlap](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0836-rectangle-overlap) |
 | [2029-stone-game-ix](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3870-count-commas-in-range](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/3870-count-commas-in-range) |
@@ -258,4 +259,8 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
