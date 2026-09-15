@@ -43,6 +43,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 | [0945-minimum-increment-to-make-array-unique](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1710-maximum-units-on-a-truck](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2563-count-the-number-of-fair-pairs) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
 |  |
@@ -72,6 +73,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2270-number-of-ways-to-split-array](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2270-number-of-ways-to-split-array) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -255,6 +257,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2563-count-the-number-of-fair-pairs) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -263,6 +266,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2563-count-the-number-of-fair-pairs) |
 ## Geometry
 |  |
 | ------- |
