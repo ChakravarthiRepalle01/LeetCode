@@ -4,23 +4,23 @@ class Solution {
         long totalChemistry = 0;
         int n = skill.length;
 
-        HashMap<Integer , Integer> map = new HashMap<Integer , Integer>();
+        int count[] = new int[1001];
 
         for(int i = 0 ; i<n ; i++) {
             totalSum += skill[i];
-            map.merge(skill[i] , 1 , Integer::sum);
+            count[skill[i]]++;
         }
-        
+
         long eachTeamSkill = (totalSum/(n/2));
 
         for(int i = 0 ; i<n ; i++) {
-            if(map.get(skill[i]) > 0) {
-                int ele = skill[i];
+            int ele = skill[i];
+            if(count[ele] > 0) {
                 int rem = (int)eachTeamSkill-ele;
 
-                if(map.containsKey(rem) && map.get(rem) > 0) {
-                    map.merge(ele , -1 , Integer::sum);
-                    map.merge(rem , -1 , Integer::sum);
+                if(rem<=1000 && rem>0 && count[rem]>0) {
+                    count[rem]--;
+                    count[ele]--;
                     totalChemistry += ele*rem;
                 }
                 else {
