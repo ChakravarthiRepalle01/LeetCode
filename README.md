@@ -67,6 +67,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 | [0289-game-of-life](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0289-game-of-life) |
 | [0322-coin-change](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0322-coin-change) |
 | [0523-continuous-subarray-sum](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0523-continuous-subarray-sum) |
+| [0713-subarray-product-less-than-k](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0835-image-overlap](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0835-image-overlap) |
 | [0912-sort-an-array](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0912-sort-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
@@ -155,6 +156,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0713-subarray-product-less-than-k](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Prefix Sum
@@ -162,6 +164,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0523-continuous-subarray-sum](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0523-continuous-subarray-sum) |
+| [0713-subarray-product-less-than-k](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [2270-number-of-ways-to-split-array](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2270-number-of-ways-to-split-array) |
 | [3903-smallest-stable-index-i](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/3903-smallest-stable-index-i) |
@@ -276,6 +279,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0713-subarray-product-less-than-k](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2563-count-the-number-of-fair-pairs) |
 ## Geometry
 |  |
