@@ -83,6 +83,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 | [1091-shortest-path-in-binary-matrix](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1710-maximum-units-on-a-truck](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2270-number-of-ways-to-split-array](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2270-number-of-ways-to-split-array) |
@@ -109,6 +110,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 | [0779-k-th-symbol-in-grammar](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
 | [0836-rectangle-overlap](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3870-count-commas-in-range](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/3870-count-commas-in-range) |
@@ -125,6 +127,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0204-count-primes) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Primality Test
 |  |
 | ------- |
@@ -336,4 +339,12 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0187-repeated-dna-sequences) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
