@@ -75,6 +75,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 | [0217-contains-duplicate](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0217-contains-duplicate) |
 | [0289-game-of-life](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0289-game-of-life) |
 | [0322-coin-change](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0322-coin-change) |
+| [0503-next-greater-element-ii](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0835-image-overlap](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0835-image-overlap) |
@@ -161,6 +162,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0394-decode-string) |
+| [0503-next-greater-element-ii](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Bracket Sequences
 |  |
@@ -352,4 +354,8 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
