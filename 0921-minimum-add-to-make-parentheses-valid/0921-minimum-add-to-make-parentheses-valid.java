@@ -1,19 +1,26 @@
 class Solution {
     public int minAddToMakeValid(String s) {
-        int totalCnt = 0;
-        int open = 0;
-
         int n = s.length();
+        
+        int total = 0;
+        int open = 0;
+        int close = 0;
 
         for(int i = 0 ; i<n ; i++) {
             if(s.charAt(i) == ')') {
-                if(open>0) open--;
-                else totalCnt++;
+                close++;
             }
             else {
                 open++;
             }
+            if(close>open) {
+                total++;
+                open++;
+            }
         }
-        return (totalCnt+open);
+
+        total += (open - close);
+
+        return total;
     }
 }
