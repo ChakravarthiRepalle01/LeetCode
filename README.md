@@ -82,6 +82,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 | [0217-contains-duplicate](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0217-contains-duplicate) |
 | [0289-game-of-life](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0289-game-of-life) |
 | [0322-coin-change](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0503-next-greater-element-ii](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0523-continuous-subarray-sum) |
@@ -246,6 +247,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 | [0198-house-robber](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [1143-longest-common-subsequence](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Longest Common Subsequence
 |  |
@@ -268,6 +270,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -378,4 +381,8 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0503-next-greater-element-ii) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
