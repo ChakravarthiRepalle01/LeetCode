@@ -37,6 +37,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1143-longest-common-subsequence](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
@@ -45,6 +46,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 | [0044-wildcard-matching](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0044-wildcard-matching) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1710-maximum-units-on-a-truck](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [2029-stone-game-ix](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -178,6 +180,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 | [0503-next-greater-element-ii](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
@@ -186,6 +189,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 | [0022-generate-parentheses](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0022-generate-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Sliding Window
 |  |
