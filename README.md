@@ -105,6 +105,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 | [2428-maximum-sum-of-an-hourglass](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2563-count-the-number-of-fair-pairs) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -140,6 +141,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0204-count-primes) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Number Theory
