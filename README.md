@@ -43,6 +43,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Greedy
 |  |
 | ------- |
