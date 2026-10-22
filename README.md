@@ -7,6 +7,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0187-repeated-dna-sequences) |
+| [0205-isomorphic-strings](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0409-longest-palindrome) |
@@ -33,6 +34,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 | [0115-distinct-subsequences](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0187-repeated-dna-sequences) |
+| [0205-isomorphic-strings](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0394-decode-string](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0394-decode-string) |
