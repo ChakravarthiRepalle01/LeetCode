@@ -143,6 +143,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 | [0062-unique-paths](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0204-count-primes) |
+| [0292-nim-game](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0292-nim-game) |
 | [0523-continuous-subarray-sum](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0779-k-th-symbol-in-grammar](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
 | [0836-rectangle-overlap](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0836-rectangle-overlap) |
@@ -252,14 +253,17 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 ## Minimax
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0292-nim-game) |
 | [2029-stone-game-ix](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0292-nim-game) |
 | [2029-stone-game-ix](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0292-nim-game) |
 | [2029-stone-game-ix](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
@@ -423,4 +427,12 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
