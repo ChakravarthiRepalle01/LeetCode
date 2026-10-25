@@ -76,6 +76,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 | [2089-find-target-indices-after-sorting-array](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2563-count-the-number-of-fair-pairs) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/3731-find-missing-elements) |
@@ -123,6 +124,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -349,6 +351,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 | [1679-max-number-of-k-sum-pairs](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2563-count-the-number-of-fair-pairs) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -360,6 +363,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 | [0713-subarray-product-less-than-k](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2563-count-the-number-of-fair-pairs) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Geometry
 |  |
 | ------- |
