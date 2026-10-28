@@ -90,6 +90,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 ## Array
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0137-single-number-ii) |
@@ -242,6 +243,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0289-game-of-life](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0289-game-of-life) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0835-image-overlap](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0835-image-overlap) |
@@ -277,6 +279,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 | [0022-generate-parentheses](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0115-distinct-subsequences) |
