@@ -199,6 +199,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 | [0090-subsets-ii](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0137-single-number-ii) |
 | [0187-repeated-dna-sequences](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0187-repeated-dna-sequences) |
+| [0338-counting-bits](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0338-counting-bits) |
 | [0779-k-th-symbol-in-grammar](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Stack
@@ -288,6 +289,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 | [0198-house-robber](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [1143-longest-common-subsequence](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Longest Common Subsequence
