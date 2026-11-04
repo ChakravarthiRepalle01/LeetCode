@@ -138,6 +138,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/3731-find-missing-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/3903-smallest-stable-index-i) |
@@ -161,6 +162,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 | [2029-stone-game-ix](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
