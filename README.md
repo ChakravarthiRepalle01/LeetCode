@@ -46,6 +46,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1768-merge-strings-alternately](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Greedy
@@ -364,6 +365,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 | [0151-reverse-words-in-a-string](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1768-merge-strings-alternately](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
