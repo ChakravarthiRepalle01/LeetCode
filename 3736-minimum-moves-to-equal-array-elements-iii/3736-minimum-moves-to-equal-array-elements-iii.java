@@ -6,10 +6,10 @@ class Solution {
 
         for(int i = 0 ; i<n ; i++) maxNum = Math.max(maxNum , nums[i]);
 
-        int totalMoves = 0;
+        int totalMoves1 = 0;
 
-        for(int i = 0 ; i<n ; i++) totalMoves += Math.abs(maxNum - nums[i]);
+        for(int i = 0 ; i<n ; i++) totalMoves1 += Math.abs(maxNum - nums[i]);
 
-        return totalMoves;
+        return totalMoves1;
     }
 } 
