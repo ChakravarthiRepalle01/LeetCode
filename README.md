@@ -73,6 +73,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0912-sort-an-array](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0912-sort-an-array) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1710-maximum-units-on-a-truck](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -119,6 +120,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 | [0930-binary-subarrays-with-sum](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1710-maximum-units-on-a-truck](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -364,6 +366,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -379,6 +382,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 | [0209-minimum-size-subarray-sum](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
