@@ -93,6 +93,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 ## Array
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0051-n-queens) |
 | [0064-minimum-path-sum](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0090-subsets-ii) |
@@ -199,6 +200,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0022-generate-parentheses) |
+| [0051-n-queens](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
@@ -461,4 +463,8 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0292-nim-game) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
