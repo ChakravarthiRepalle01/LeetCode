@@ -88,6 +88,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [1267-count-servers-that-communicate](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [2029-stone-game-ix](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Array
@@ -122,6 +123,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 | [0930-binary-subarrays-with-sum](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1267-count-servers-that-communicate](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1710-maximum-units-on-a-truck](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
@@ -263,6 +265,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 | [0304-range-sum-query-2d-immutable](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0835-image-overlap](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0835-image-overlap) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1267-count-servers-that-communicate](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2428-maximum-sum-of-an-hourglass) |
 ## Simulation
 |  |
@@ -324,6 +327,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 | [0111-minimum-depth-of-binary-tree](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0322-coin-change](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0322-coin-change) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1267-count-servers-that-communicate](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1267-count-servers-that-communicate) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -358,6 +362,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [1267-count-servers-that-communicate](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -469,4 +474,8 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0051-n-queens) |
+## Union-Find
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
