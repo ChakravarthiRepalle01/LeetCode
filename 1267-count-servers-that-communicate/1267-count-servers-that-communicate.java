@@ -8,19 +8,12 @@ class Solution {
         int colCnt[] = new int[n];
 
         for(int i = 0 ; i<m ; i++) {
-            int totalCnt = 0;
             for(int j = 0 ; j<n ; j++) {
-                if(grid[i][j] == 1) totalCnt++;
+                if(grid[i][j] == 1) {
+                    rowCnt[i]++;
+                    colCnt[j]++;
+                }
             }
-            rowCnt[i] = totalCnt;
-        }
-
-        for(int j = 0 ; j<n ; j++) {
-            int totalCnt = 0;
-            for(int i = 0 ; i<m ; i++) {
-                if(grid[i][j] == 1) totalCnt++;
-            }
-            colCnt[j] = totalCnt;
         }
 
         int totalCnt = 0;
