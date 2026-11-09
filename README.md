@@ -6,6 +6,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0037-sudoku-solver) |
 | [0187-repeated-dna-sequences](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0217-contains-duplicate) |
@@ -94,6 +95,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0051-n-queens) |
 | [0064-minimum-path-sum](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0078-subsets) |
@@ -203,6 +205,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0090-subsets-ii) |
@@ -260,6 +263,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0037-sudoku-solver) |
 | [0064-minimum-path-sum](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0289-game-of-life](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0289-game-of-life) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
@@ -473,9 +477,14 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0051-n-queens) |
 ## Union-Find
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1267-count-servers-that-communicate) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
