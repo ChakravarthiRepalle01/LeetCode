@@ -48,6 +48,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1768-merge-strings-alternately) |
+| [2063-vowels-of-all-substrings](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2063-vowels-of-all-substrings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Greedy
@@ -169,6 +170,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 | [1401-circle-and-rectangle-overlapping](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2029-stone-game-ix) |
+| [2063-vowels-of-all-substrings](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2063-vowels-of-all-substrings) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -313,6 +315,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 | [0338-counting-bits](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [1143-longest-common-subsequence](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1143-longest-common-subsequence) |
+| [2063-vowels-of-all-substrings](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2063-vowels-of-all-substrings) |
 ## Longest Common Subsequence
 |  |
 | ------- |
@@ -349,6 +352,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0062-unique-paths) |
+| [2063-vowels-of-all-substrings](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2063-vowels-of-all-substrings) |
 ## Linked List
 |  |
 | ------- |
