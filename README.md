@@ -42,6 +42,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 | [0394-decode-string](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0784-letter-case-permutation](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0784-letter-case-permutation) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1143-longest-common-subsequence](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -211,6 +212,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 | [0051-n-queens](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0090-subsets-ii) |
+| [0784-letter-case-permutation](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0784-letter-case-permutation) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -221,6 +223,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 | [0187-repeated-dna-sequences](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0338-counting-bits](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0338-counting-bits) |
 | [0779-k-th-symbol-in-grammar](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
+| [0784-letter-case-permutation](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0784-letter-case-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Stack
 |  |
