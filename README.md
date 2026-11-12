@@ -143,6 +143,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
