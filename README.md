@@ -15,6 +15,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 | [0442-find-all-duplicates-in-an-array](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0523-continuous-subarray-sum](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0523-continuous-subarray-sum) |
+| [0763-partition-labels](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0763-partition-labels) |
 | [0930-binary-subarrays-with-sum](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -42,6 +43,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 | [0394-decode-string](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0763-partition-labels](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0763-partition-labels) |
 | [0784-letter-case-permutation](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0784-letter-case-permutation) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1143-longest-common-subsequence](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1143-longest-common-subsequence) |
@@ -57,6 +59,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 | ------- |
 | [0044-wildcard-matching](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0044-wildcard-matching) |
 | [0409-longest-palindrome](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0409-longest-palindrome) |
+| [0763-partition-labels](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0763-partition-labels) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -388,6 +391,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0763-partition-labels](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0763-partition-labels) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1768-merge-strings-alternately) |
