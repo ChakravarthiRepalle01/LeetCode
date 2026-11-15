@@ -132,6 +132,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 | [1091-shortest-path-in-binary-matrix](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1267-count-servers-that-communicate](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1710-maximum-units-on-a-truck](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -173,6 +174,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 | [0779-k-th-symbol-in-grammar](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
 | [0836-rectangle-overlap](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2029-stone-game-ix) |
 | [2063-vowels-of-all-substrings](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2063-vowels-of-all-substrings) |
@@ -266,6 +268,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 | [0713-subarray-product-less-than-k](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2270-number-of-ways-to-split-array](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2270-number-of-ways-to-split-array) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [3903-smallest-stable-index-i](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/3903-smallest-stable-index-i) |
@@ -323,6 +326,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 | [0338-counting-bits](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [1143-longest-common-subsequence](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1143-longest-common-subsequence) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2063-vowels-of-all-substrings](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2063-vowels-of-all-substrings) |
 ## Longest Common Subsequence
 |  |
