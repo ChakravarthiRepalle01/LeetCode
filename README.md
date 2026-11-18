@@ -53,6 +53,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 | [1768-merge-strings-alternately](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2063-vowels-of-all-substrings](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2063-vowels-of-all-substrings) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Greedy
