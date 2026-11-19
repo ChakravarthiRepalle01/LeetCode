@@ -176,6 +176,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 | [0070-climbing-stairs](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0204-count-primes) |
 | [0292-nim-game](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0319-bulb-switcher) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0523-continuous-subarray-sum](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0523-continuous-subarray-sum) |
@@ -497,6 +498,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0319-bulb-switcher) |
 ## Impartial Game
 |  |
 | ------- |
