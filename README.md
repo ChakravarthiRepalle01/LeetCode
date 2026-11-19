@@ -184,6 +184,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 | [0836-rectangle-overlap](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2029-stone-game-ix) |
 | [2063-vowels-of-all-substrings](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2063-vowels-of-all-substrings) |
@@ -424,6 +425,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 | [0704-binary-search](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
