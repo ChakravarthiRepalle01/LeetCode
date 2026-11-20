@@ -76,6 +76,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0047-permutations-ii) |
 | [0217-contains-duplicate](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -107,6 +108,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0037-sudoku-solver) |
+| [0047-permutations-ii](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0051-n-queens) |
 | [0064-minimum-path-sum](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0078-subsets) |
@@ -225,6 +227,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 | ------- |
 | [0022-generate-parentheses](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0037-sudoku-solver) |
+| [0047-permutations-ii](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0090-subsets-ii) |
