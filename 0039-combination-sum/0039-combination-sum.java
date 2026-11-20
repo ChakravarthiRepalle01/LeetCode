@@ -4,8 +4,6 @@ class Solution {
 
         List<List<Integer>> finalAns = new ArrayList<>();
 
-        Arrays.sort(candidates);
-
         combination(candidates , target , new ArrayList<>() , finalAns , n , 0);
 
         return finalAns;
