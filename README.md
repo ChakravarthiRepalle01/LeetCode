@@ -70,6 +70,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 | [1710-maximum-units-on-a-truck](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [2029-stone-game-ix](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -91,6 +92,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 | [1710-maximum-units-on-a-truck](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -155,6 +157,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 | [2270-number-of-ways-to-split-array](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2270-number-of-ways-to-split-array) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -442,6 +445,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Geometry
