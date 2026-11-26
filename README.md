@@ -199,6 +199,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 | [2029-stone-game-ix](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2029-stone-game-ix) |
 | [2063-vowels-of-all-substrings](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2063-vowels-of-all-substrings) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -318,6 +319,7 @@ Data Structures &amp; Algorithms solutions on LeetCode focused on optimal time a
 | [0289-game-of-life](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/0289-game-of-life) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/ChakravarthiRepalle01/LeetCode/tree/master/3360-stone-removal-game) |
 ## Minimax
 |  |
 | ------- |
